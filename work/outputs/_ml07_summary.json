@@ -1,0 +1,273 @@
+{
+  "sig1": [
+    {
+      "staleness_bucket": "0-29 days",
+      "n": 7016,
+      "avg_ctr_pct": 0.3892074738538878
+    },
+    {
+      "staleness_bucket": "30-89 days",
+      "n": 16432,
+      "avg_ctr_pct": 0.24375021739079136
+    },
+    {
+      "staleness_bucket": "90-179 days",
+      "n": 10277,
+      "avg_ctr_pct": 0.19698887217877253
+    },
+    {
+      "staleness_bucket": "180-364 days",
+      "n": 21030,
+      "avg_ctr_pct": 0.2068739857712832
+    },
+    {
+      "staleness_bucket": "365+ days",
+      "n": 8906,
+      "avg_ctr_pct": 0.17633870733025736
+    }
+  ],
+  "sig2": [
+    {
+      "position_bucket": "top_3 (1-3)",
+      "n": 5764,
+      "avg_ctr_pct": 0.361035588190886
+    },
+    {
+      "position_bucket": "page_1 (4-10)",
+      "n": 25831,
+      "avg_ctr_pct": 0.3042893129067153
+    },
+    {
+      "position_bucket": "striking (11-20)",
+      "n": 13202,
+      "avg_ctr_pct": 0.20618565359961227
+    },
+    {
+      "position_bucket": "page_3_5 (21-50)",
+      "n": 15052,
+      "avg_ctr_pct": 0.1229947544635487
+    },
+    {
+      "position_bucket": "deep (51+)",
+      "n": 3812,
+      "avg_ctr_pct": 0.04380479573082819
+    }
+  ],
+  "refresh_threshold": 66.03078090075722,
+  "rows": 63661,
+  "refresh_count": 5549,
+  "top10": [
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_cc0469cb3dcb3aff",
+      "staleness_days": 475,
+      "ctr_pct": 0.0,
+      "avg_position": 1.5427140219778384,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 171.49190439067084,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 540.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_98a144e78a860a21",
+      "staleness_days": 475,
+      "ctr_pct": 0.0,
+      "avg_position": 2.785203881610254,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 171.49190439067084,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 1240.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_2fae6520bb7a6962",
+      "staleness_days": 467,
+      "ctr_pct": 0.0,
+      "avg_position": 0.8990178090178115,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 168.60361968514377,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 1186.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_5e8f1dea52e86e63",
+      "staleness_days": 467,
+      "ctr_pct": 0.0,
+      "avg_position": 1.6750025095351515,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 168.60361968514377,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 427.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_3abd9df04eb7ddbf",
+      "staleness_days": 467,
+      "ctr_pct": 0.0,
+      "avg_position": 2.683902411539328,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 168.60361968514377,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 371.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_ae6f555a1daba25e",
+      "staleness_days": 467,
+      "ctr_pct": 0.0,
+      "avg_position": 1.3715834818775994,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 168.60361968514377,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 183.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_3eb93e7a5bbd5222",
+      "staleness_days": 475,
+      "ctr_pct": 0.017543859649122806,
+      "avg_position": 0.626971074023508,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.3434917285417632,
+      "score": 163.15857105733753,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 5700.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_bebdd9b8da343222",
+      "staleness_days": 434,
+      "ctr_pct": 0.0,
+      "avg_position": 1.6404936349263703,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 156.68944527484453,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 288.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_25596d8f5df1e383",
+      "staleness_days": 434,
+      "ctr_pct": 0.0,
+      "avg_position": 2.2176774263089043,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 156.68944527484453,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 394.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_4087a29f5b74b526",
+      "staleness_days": 434,
+      "ctr_pct": 0.0,
+      "avg_position": 2.9347941260123824,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 156.68944527484453,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 709.0
+    }
+  ],
+  "weak": [
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_ae6f555a1daba25e",
+      "staleness_days": 467,
+      "ctr_pct": 0.0,
+      "avg_position": 1.3715834818775994,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 168.60361968514377,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 183.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_bebdd9b8da343222",
+      "staleness_days": 434,
+      "ctr_pct": 0.0,
+      "avg_position": 1.6404936349263703,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 156.68944527484453,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 288.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_a18fb920bf78d8a0",
+      "staleness_days": 417,
+      "ctr_pct": 0.0,
+      "avg_position": 1.351209901209901,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 150.55184027559946,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 265.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_a664c4279668dae8",
+      "staleness_days": 417,
+      "ctr_pct": 0.0,
+      "avg_position": 2.1994027711419015,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 150.55184027559946,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 163.0
+    },
+    {
+      "client_hash_id": "client_e547b89c05043229",
+      "content_hash_id": "content_c9d9b29e33136b7a",
+      "staleness_days": 417,
+      "ctr_pct": 0.0,
+      "avg_position": 0.6033640197855885,
+      "position_bucket": "top_3 (1-3)",
+      "bucket_avg_ctr_pct": 0.361035588190886,
+      "ctr_gap_pct": 0.361035588190886,
+      "score": 150.55184027559946,
+      "reason_code": "STALE_LOW_CTR",
+      "action": "refresh",
+      "impressions": 221.0
+    }
+  ]
+}
